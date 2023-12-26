@@ -1,0 +1,15 @@
+.divide::after {
+    background: hsla(0,0%,100%,.1);
+    bottom: 0;
+    content: " ";
+    display: inline-block;
+    position: absolute;
+    height: 100%;
+    right: 0;
+    top: 0;
+    width: 1px;
+}
+
+.menuItem {
+    background-color: #18212d;
+}

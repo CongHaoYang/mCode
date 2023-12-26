@@ -1,0 +1,10 @@
+.mHeader::after {
+    background: #2f3742;
+    bottom: 0;
+    content: " ";
+    display: inline-block;
+    height: 1px;
+    left: 0;
+    position: absolute;
+    right: 0;
+}

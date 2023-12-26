@@ -1,0 +1,11 @@
+.divide:after {
+    background: #2f3742;
+    bottom: 0;
+    content: " ";
+    display: inline-block;
+    height: 1px;
+    left: 0;
+    position: relative;
+    right: 0;
+    width: 100%;
+}   

@@ -1,0 +1,10 @@
+.mAside::after {
+    background: hsla(0,0%,100%,.1);
+    bottom: 0;
+    content: " ";
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 1px;
+}
